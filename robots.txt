@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://totalqualitygroupdigital.com.br/sitemap.xml
